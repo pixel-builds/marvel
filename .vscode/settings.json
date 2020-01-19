@@ -1,3 +1,12 @@
 {
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "vsicons.presets.angular": true,
+    "vsicons.presets.hideExplorerArrows": true,
+    "vsicons.presets.nestjs": true,
+    "vsicons.presets.tsOfficial": true,
+    "vsicons.projectDetection.autoReload": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "vsicons.presets.jsOfficial": true,
+    "vsicons.presets.jsonOfficial": true,
+    "editor.fontSize": 13
 }
